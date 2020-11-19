@@ -6,7 +6,7 @@ enum StudentType{
     case Service
 }
 
-//Struct to represent a student
+//Struct to represent a Student
 struct Student{
     var name: String
     var type: StudentType
